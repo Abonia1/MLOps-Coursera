@@ -22,7 +22,7 @@ jobs:
         # Specify the working directory for the workflow
         working-directory: course4/week3-ungraded-labs/C4_W3_Lab_4_Github_Actions/
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    # Steps represent a sequence of tasks that will be executed as part of the job lets try
     steps:
       -
         name: Checkout
