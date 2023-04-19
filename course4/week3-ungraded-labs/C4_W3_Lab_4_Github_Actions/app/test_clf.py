@@ -8,7 +8,7 @@ def test_accuracy():
     with open("app/data/test_data.pkl", "rb") as file:
         test_data = pickle.load(file)
 
-    # Unpack the tuple a lets testin
+    # Unpack the tuple a lets testing
     X_test, y_test = test_data
 
     # Compute accuracy of classifier
